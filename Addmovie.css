@@ -1,0 +1,16 @@
+/* .addmovie-box {
+    width: 400px;
+    margin-right: auto;
+    margin-left: auto;
+} */
+.submit{
+    display: inline-block;
+    background: crimson;
+    color: #fff;
+    font-size: 25px;
+    padding: 12px 30px;
+    margin-top: 20px;
+    border-radius: 20px;
+    border: 2px solid crimson;
+    transition: all 0.3s ease;
+}
